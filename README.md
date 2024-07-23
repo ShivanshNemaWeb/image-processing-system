@@ -76,3 +76,6 @@ https://docs.google.com/document/d/1qqxX9ptYJf5DDHu5EsQM0rLStWM_SLEOG0MBm7fwfeQ/
 ## Postman collection
 https://www.postman.com/lively-sunset-365228/workspace/image-processing-system
 
+## API Base URL
+https://image-processing-system-c6fj.onrender.com
+
