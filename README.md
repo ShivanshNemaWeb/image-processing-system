@@ -37,11 +37,11 @@ Install dependencies:
 ## Create a .env file in the root directory and add the following environment variables:
 
 
-MONGODB_URI=<Your MongoDB URI>
-AWS_REGION=<Your AWS Region>
-S3_BUCKET_NAME=<Your S3 Bucket Name>
-HOST=<Your Host>
-PORT=<Your Port>
+MONGODB_URI,
+AWS_REGION,
+S3_BUCKET_NAME,
+HOST,
+PORT,
 
 Usage
 Start the Server
